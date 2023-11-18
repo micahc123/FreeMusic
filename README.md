@@ -24,6 +24,12 @@ To get started with FreeMusic, follow these steps:
 
    pip install -r requirements.txt
 
+   
+5. Update python SSL certificate:
+
+   /Applications/Python\ 3.11/Install\ Certificates.command
+
+   
 ## Use it!
 
 1. Run the script:
