@@ -17,23 +17,23 @@ To get started with FreeMusic, follow these steps:
    ```bash
    git clone https://github.com/cheesebuilding/FreeMusic.git
 2. Navigate to the project directory:
-
+   ```bash
    cd FreeMusic
 
 3. Install the required dependencies:
-
+   ```bash
    pip install -r requirements.txt
 
    
 5. Update python SSL certificate:
-
+   ```bash
    /Applications/Python\ 3.11/Install\ Certificates.command
 
    
 ## Use it!
 
 1. Run the script:
-
+   ```bash
    python main.py
 
 2. Choose one of the following options:
